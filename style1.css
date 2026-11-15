@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+}
+.farm-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.registeer-form {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 400px;
+  font-family: Arial, sans-serif;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block; /* Робить лейбл блоковим, щоб він був над полем */
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: white;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box; /* Важливо! */
+  transition: border-color 0.3s;
+  
+}
+
+/* Ефект при кліку в поле */
+input:focus {
+  border-color: #007BFF;
+  outline: none; /* Прибираємо стандартну синю рамку браузера */
+  box-shadow: 0 0 5px rgba(0,123,255,0.3);
+}
+
+.btn-submit {
+  width: 100%;
+  padding: 12px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointeer;
+  transition: background-color 0.3s;
+}
+
+.btn-submit:hover {
+  background-Color: gray;
+}
+footer{
+    color: white;
+}
+h6{
+    color: white;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+
+.a{
+    color: purple;
+ }
+ .b{
+    color: blue;
+ }
+ .c{
+    color: yellow;
+ }
