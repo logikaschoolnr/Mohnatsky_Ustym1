@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+
+}
+
+
+ img{
+     width: 100px;
+     height: 100px;
+ }
+ 
+ p{
+    color: white;
+    font-size: 25px;
+ }
+ .buytrashbutton{
+     background-color: blue;
+     border-radius: 5px;
+     color: white;
+     padding: 0.5px;
+     text-align: center;
+     font-size: 25px;
+ }
+
+ .buytrashbutton:hover{
+     background-color: lightblue; 
+}
+h4{
+    color: white;
+}
+h6{
+    color: white;
+}
+.a{
+    color: purple;
+ }
+ .b{
+    color: blue;
+ }
+ .c{
+    color: yellow;
+ }
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+
+}
+
+
+ img{
+     width: 100px;
+     height: 100px;
+ }
+ 
+ p{
+    color: white;
+    font-size: 25px;
+ }
+ .buytrashbutton{
+     background-color: blue;
+     border-radius: 5px;
+     color: white;
+     padding: 0.5px;
+     text-align: center;
+     font-size: 25px;
+ }
+
+ .buytrashbutton:hover{
+     background-color: lightblue; 
+}
+h4{
+    color: white;
+}
+h6{
+    color: white;
+}
+.a{
+    color: purple;
+ }
+ .b{
+    color: blue;
+ }
+ .c{
+    color: yellow;
+ }
